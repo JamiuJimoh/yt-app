@@ -1,4 +1,4 @@
-require('dotenv').config();
+import axios from 'axios';
 
 const KEY ="AIzaSyDImkWsM9t6Gjc4h6dZMeIn7EGEJjW6bA4";
 
